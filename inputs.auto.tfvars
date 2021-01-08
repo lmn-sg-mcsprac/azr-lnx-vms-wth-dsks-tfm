@@ -16,7 +16,7 @@ vm_params = {
 
 vm_list = {
   vm1 = {
-    vmname         = "xzzxcz"
+    vmname         = "heswddws01"
     vmsku          = "Standard_B2ms"
     admin_username = "adminuser"
     admin_password = "P@ssw0rd1234!"
